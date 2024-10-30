@@ -1,0 +1,170 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Clock Tik Tik\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-22 17:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.1\n"
+"X-Domain: clock-tik-tik"
+
+#: templates/add_new_clock_template.php:156
+msgid "12-hour"
+msgstr ""
+
+#: templates/add_new_clock_template.php:151
+msgid "24-hour"
+msgstr ""
+
+#: inc/clockFunctions.php:139
+msgid "<p>Unknown or invalid clockid</p>"
+msgstr ""
+
+#: templates/clock_list_template.php:46
+msgid "<tr><td>No Clock is Created</td></tr>"
+msgstr ""
+
+#: templates/clock_list_template.php:23
+msgid "action"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add any timezone clock in analog and digital"
+msgstr ""
+
+#: templates/clock_list_template.php:8
+msgid "Add New"
+msgstr ""
+
+#: templates/add_new_clock_template.php:30
+msgid "Analog Clock"
+msgstr ""
+
+#: templates/add_new_clock_template.php:60
+msgid "Background"
+msgstr ""
+
+#: templates/add_new_clock_template.php:171
+msgid "Background Color"
+msgstr ""
+
+#. Author of the plugin
+msgid "Blitz Mobile Apps"
+msgstr ""
+
+#: templates/add_new_clock_template.php:81
+msgid "Bold Marker"
+msgstr ""
+
+#: templates/clock_list_template.php:7
+msgid "Clock"
+msgstr ""
+
+#: inc/clock_setting.php:90
+msgid "Clock Added Successfully"
+msgstr ""
+
+#. Name of the plugin
+msgid "Clock Tik Tik"
+msgstr ""
+
+#: inc/clock_setting.php:103
+msgid "Clock Update Successfully"
+msgstr ""
+
+#: templates/add_new_clock_template.php:56
+#: templates/add_new_clock_template.php:146
+msgid "Color Setting"
+msgstr ""
+
+#: templates/clock_list_template.php:37
+msgid "Delete"
+msgstr ""
+
+#: inc/clock_setting.php:56 inc/clock_setting.php:66
+msgid "Denied ! Only admin can see this."
+msgstr ""
+
+#: templates/add_new_clock_template.php:178
+msgid "Digit Color"
+msgstr ""
+
+#: templates/add_new_clock_template.php:23
+#: templates/add_new_clock_template.php:120
+msgid "Digital clock"
+msgstr ""
+
+#: templates/clock_list_template.php:39
+msgid "Edit"
+msgstr ""
+
+#: templates/add_new_clock_template.php:164
+msgid "Font Size"
+msgstr ""
+
+#: templates/add_new_clock_template.php:67
+msgid "Hand"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://blitzmobileapps.com/"
+msgstr ""
+
+#: templates/add_new_clock_template.php:203
+msgid "live Demo"
+msgstr ""
+
+#: templates/add_new_clock_template.php:74
+msgid "Marker"
+msgstr ""
+
+#: inc/clock_setting.php:77
+msgid "Please Fill The Fields"
+msgstr ""
+
+#: templates/add_new_clock_template.php:88
+msgid "Radius"
+msgstr ""
+
+#: templates/add_new_clock_template.php:45
+#: templates/add_new_clock_template.php:135
+msgid "Select Timezone Name"
+msgstr ""
+
+#: templates/clock_list_template.php:22
+msgid "Shortcode"
+msgstr ""
+
+#: templates/add_new_clock_template.php:95
+msgid "Size"
+msgstr ""
+
+#: inc/clock_setting.php:119
+msgid "Something Wrong Please Try Again"
+msgstr ""
+
+#: templates/clock_list_template.php:21
+msgid "Time Zones"
+msgstr ""
+
+#: templates/add_new_clock_template.php:37
+#: templates/add_new_clock_template.php:127
+#: templates/clock_list_template.php:20
+msgid "Title"
+msgstr ""
+
+#: inc/clockFunctions.php:20
+msgid "Unknown or invalid clockid"
+msgstr ""
+
+#: templates/clock_list_template.php:13
+msgid "You Clock Shortcode & List"
+msgstr ""
